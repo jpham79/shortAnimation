@@ -1,0 +1,3 @@
+Switch1
+moveto 100 100 2
+Switch2

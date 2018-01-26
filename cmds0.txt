@@ -1,0 +1,6 @@
+moveto 300 300 1
+Switch1
+moveto 50 350 1
+Switch1
+moveto 900 300 1
+Switch1
